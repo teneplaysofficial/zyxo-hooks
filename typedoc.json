@@ -1,0 +1,15 @@
+{
+  "entryPoints": ["lib/index.ts"],
+  "entryPointStrategy": "expand",
+  "navigationLinks": {
+    "GitHub": "https://github.com/teneplaysofficial/zyxo-hooks",
+    "NPM": "https://www.npmjs.com/package/@zyxo/hooks"
+  },
+  "favicon": "assets/favicon.svg",
+  "sort": ["source-order"],
+  "name": "Zyxo Hooks",
+  "gitRemote": "origin",
+  "gitRevision": "main",
+  "githubPages": true,
+  "cname": "hooks.js.org"
+}
