@@ -5,6 +5,7 @@
 [![CI](https://github.com/teneplaysofficial/zyxo-hooks/actions/workflows/ci.yml/badge.svg)](https://github.com/teneplaysofficial/zyxo-hooks)
 [![npm version](https://img.shields.io/npm/v/@zyxo/hooks.svg?logo=npm&color=brightgreen)](https://www.npmjs.com/package/@zyxo/hooks)
 [![Downloads](https://img.shields.io/npm/dt/@zyxo/hooks?logo=npm)](https://www.npmjs.com/package/@zyxo/hooks)
+[![codecov](https://codecov.io/gh/teneplaysofficial/zyxo-hooks/graph/badge.svg?token=CMdRNL5J8N)](https://codecov.io/gh/teneplaysofficial/zyxo-hooks)
 
 ## Features
 
